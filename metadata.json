@@ -1,0 +1,7 @@
+{
+  "name": "BazaarGo MVP - Investor Demo",
+  "description": "A high-fidelity, mobile-first e-commerce PWA demo featuring Gemini AI assistant, Google Search grounding, and Maps integrations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
